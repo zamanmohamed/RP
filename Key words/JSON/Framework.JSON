@@ -1,0 +1,79 @@
+{
+  "name": "Framework",
+  "Node JS": {
+    "name": ["node", "node JS", "nodeJS", "node.JS"],
+    "key": [
+      "operational",
+      "callbacks",
+      "events",
+      "Single-threaded",
+      "buffers",
+      "callback"
+    ]
+  },
+  "React JS": {
+    "name": ["React", "React JS", "ReactJS", "React.JS", "React_JS"],
+    "key": [
+      "JSX,redux,",
+      "Redux",
+      "Redux js",
+      "ReduxJS",
+      "react-redux",
+      "Redux.JS",
+      "Redux-Saga",
+      "flux"
+    ]
+  },
+  "Anguler Js": {
+    "name": ["Angular", "Angular JS", "AngularJS", "Angular.JS", "Angular_JS"],
+    "key": [
+      "custom elements",
+      "dynamic components",
+      "Router",
+      "bootstrap",
+      "elements",
+      "expression"
+    ]
+  },
+  "React Native": {
+    "name": [
+      "React Native",
+      "RactNative",
+      "React_Native",
+      "ReactNative JS",
+      "ReactNative.js"
+    ],
+    "key": ["Flexbox", "main axis", "Component", "layout"]
+  },
+  "Chart JS": { "name": ["chart JS", "chartJS", "chart.JS"], "key": [] },
+  "jQuery": { "name": ["j-Query", "jQuery"], "key": [] },
+  "ionic": { "name": ["ionic", "ionic.js", "ionic js", "ionicJS"], "key": [] },
+  "Express JS": { "name": ["Express", "Express JS", "ExpressJS"], "key": [] },
+  "Vue js": { "name": ["Vue js", "Vue.js", "Vue"], "key": [] },
+  "Bable JS": {
+    "name": ["Bable JS", "Bable", "Bable.js", "BableJS", "Bable-JS"],
+    "key": []
+  },
+  "Webpack": [
+    "Webpack",
+    "Webpack js",
+    "Webpack.js",
+    "Webpack-npm",
+    "Webpack npm"
+  ],
+  "Flask": ["Flask", "Flask-python"],
+  "ASP.NET": ["ASP", "ASP.NET", "ASP NET"],
+  "Django": ["django", "django-python"],
+  "bootstrap": ["bootstrap"],
+  "metiral UI": ["metiral UI", "metiralUI"],
+  "Tailwind CSS": [
+    "Tailwind css",
+    "Tailwind",
+    "Tailwind.css",
+    "TailwindCSS",
+    "Tailwind-CSS"
+  ],
+  "NPM": ["NPM", "node package manager"],
+  "Laravel": ["laravel", "laravel-php", "laravel php"],
+  "Flutter": ["Flutter", "Flutter dart", "Flutter.dart"]
+}

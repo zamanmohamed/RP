@@ -1,0 +1,83 @@
+{
+  "name": "OtherSkils",
+  "OOP": {
+    "name": [
+      "object oreinted",
+      "OOP",
+      "object oreinted",
+      "object oriented concept"
+    ],
+    "key": []
+  },
+  "API": { "name": ["Application programming interface", "API"], "key": [] },
+  "GitHub": {
+    "name": ["github", "git", "gitlab", "bigbucket"],
+    "key": [
+      "commit",
+      "Git repository",
+      "git pull",
+      "git push",
+      "git marge",
+      "git clone",
+      "Staging area",
+      "git config",
+      "git clean",
+      "branch"
+    ]
+  },
+  "CI/CD": {
+    "name": [
+      "CI/CD",
+      "pipline",
+      "continuous integration",
+      "continuous deployment"
+    ],
+    "key": [
+      "continuous integration",
+      "continuous deployment",
+      "build stage",
+      "build take",
+      "CI/CD ",
+      "pipline"
+    ]
+  },
+  "AWS": {
+    "name": ["aws"],
+    "key": [
+      "auto-scaling",
+      "auto scaling",
+      "autoScaling",
+      "EC2",
+      "SnowBall",
+      "VPC",
+      "Load Balancer",
+      "Public Key",
+      "Private Key"
+    ]
+  },
+  "AZURE": { "name": ["azure"], "key": [] },
+  "DSA": {
+    "name": ["DSA", "Data structure and algorithms", "D.S.A"],
+    "key": []
+  },
+  "LINUX": { "name": ["Linux", "unix"], "key": [] },
+  "Windows": { "name": ["windows"], "key": [] },
+  "Cryptography": {
+    "name": ["Encryption", "Decryption", "cryptography"],
+    "key": []
+  },
+  "Docker": {
+    "name": ["Docker"],
+    "key": [
+      "Docker image",
+      "Docker images",
+      "image",
+      "hypervisor",
+      "Docker Compose",
+      "docker namespace",
+      "Docker Hub",
+      "container",
+      "Dockerfile"
+    ]
+  }
+}
