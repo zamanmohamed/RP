@@ -56,10 +56,6 @@
     ]
   },
   "AZURE": { "name": ["azure"], "key": [] },
-  "DSA": {
-    "name": ["DSA", "Data structure and algorithms", "D.S.A"],
-    "key": []
-  },
   "LINUX": { "name": ["Linux", "unix"], "key": [] },
   "Windows": { "name": ["windows"], "key": [] },
   "Cryptography": {

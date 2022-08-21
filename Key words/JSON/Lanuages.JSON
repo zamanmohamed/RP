@@ -284,5 +284,6 @@
   "SQL": { "name": ["SQL", "Structured Query Language"], "key": [] },
   "Go": { "name": ["GO", " golang"], "key": [] },
   "rust": { "name": ["rust"], "key": [] },
-  "Ruby": { "name": ["Ruby"], "key": [] }
+  "Ruby": { "name": ["Ruby"], "key": [] },
+  "PowerShell": { "name": ["PowerShell"], "key": [] }
 }
