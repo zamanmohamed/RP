@@ -1,7 +1,7 @@
 {
   "name": "Framework",
   "Node JS": {
-    "name": ["node", "node JS", "nodeJS", "node.JS"],
+    "name": ["node JS", "node.JS"],
     "key": [
       "operational",
       "callbacks",
@@ -12,20 +12,11 @@
     ]
   },
   "React JS": {
-    "name": ["React", "React JS", "ReactJS", "React.JS", "React_JS"],
-    "key": [
-      "JSX,redux,",
-      "Redux",
-      "Redux js",
-      "ReduxJS",
-      "react-redux",
-      "Redux.JS",
-      "Redux-Saga",
-      "flux"
-    ]
+    "name": ["React JS", "React.JS", "React_JS"],
+    "key": ["JSX", "route", "testing"]
   },
   "Anguler Js": {
-    "name": ["Angular", "Angular JS", "AngularJS", "Angular.JS", "Angular_JS"],
+    "name": ["Angular JS", "Angular.JS", "Angular_JS"],
     "key": [
       "custom elements",
       "dynamic components",
@@ -45,25 +36,33 @@
     ],
     "key": ["Flexbox", "main axis", "Component", "layout"]
   },
+  "Redux": {
+    "name": [
+      "redux",
+      "Redux",
+      "Redux js",
+      "react-redux",
+      "Redux.JS",
+      "Redux-Saga"
+    ],
+    "key": []
+  },
   "Chart JS": { "name": ["chart JS", "chartJS", "chart.JS"], "key": [] },
   "jQuery": { "name": ["j-Query", "jQuery"], "key": [] },
   "ionic": { "name": ["ionic", "ionic.js", "ionic js", "ionicJS"], "key": [] },
-  "Express JS": { "name": ["Express", "Express JS", "ExpressJS"], "key": [] },
   "Vue js": { "name": ["Vue js", "Vue.js", "Vue"], "key": [] },
   "Bable JS": {
-    "name": ["Bable JS", "Bable", "Bable.js", "BableJS", "Bable-JS"],
+    "name": ["Bable JS", "Bable.js", "Bable-JS"],
     "key": []
   },
-  "Webpack": [
-    "Webpack",
-    "Webpack js",
-    "Webpack.js",
-    "Webpack-npm",
-    "Webpack npm"
-  ],
-  "Flask": ["Flask", "Flask-python"],
-  "ASP.NET": ["ASP", "ASP.NET", "ASP NET"],
-  "Django": ["django", "django-python"],
+  "Webpack": {
+    "name": ["Webpack", "Webpack.js", "Webpack-npm", "Webpack npm"],
+    "key": []
+  },
+  "Flask": { "name": ["Flask", "Flask-python"], "key": [] },
+  "ASP.NET": { "name": ["ASP", "ASP.NET", "ASP NET"], "key": [] },
+
+  "Django": { "name": ["django", "django-python"] },
   "bootstrap": ["bootstrap"],
   "metiral UI": ["metiral UI", "metiralUI"],
   "Tailwind CSS": [
@@ -73,7 +72,8 @@
     "TailwindCSS",
     "Tailwind-CSS"
   ],
-  "NPM": ["NPM", "node package manager"],
-  "Laravel": ["laravel", "laravel-php", "laravel php"],
-  "Flutter": ["Flutter", "Flutter dart", "Flutter.dart"]
+  "NPM": { "name": ["NPM", "node package manager"], "key": [] },
+  "Laravel": { "name": ["laravel", "laravel-php", "laravel php"], "key": [] },
+  "Flutter": { "name": ["Flutter", "Flutter dart", "Flutter.dart"], "key": [] },
+  "Figma": { "name": ["Figma"], "key": [] }
 }
